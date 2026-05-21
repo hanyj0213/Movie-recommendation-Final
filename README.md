@@ -1,4 +1,3 @@
-# Movie-recommendation-Final
 # 🎬 Movie Recommendation System
 
 This project is a minimum viable data product developed for the Minor Data-Driven Decision Making individual assignment.
@@ -134,16 +133,16 @@ Once the Streamlit app opens:
 
 ## Iteration Process
 
-Iteration 1
+### Iteration 1
 
 The first version used raw movie data.
 The system worked, but the movie selection contained noisy and unclear titles.
 
-Iteration 2
+### Iteration 2
 
 The second version worked technically, but the user experience was still poor because users had to choose from a long and unclear movie title list.
 
-Iteration 3
+### Iteration 3
 
 The final version switched to genre-based recommendations.
 This improved usability, made the interface cleaner, and created a more stable recommendation experience.
